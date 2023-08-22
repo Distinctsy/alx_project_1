@@ -9,14 +9,15 @@ body{
     height: 100vh;
 }
 
-#img1 {
+.reg-img{
+    background-image: url(image2/m13.jpeg);
+    background-position: right;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     flex-basis: 50%;
-    height: 100%;
-    width: 100%;
-
 }
 
-.gig {
+.shop {
     color: #efeaea;
     width: 360px;
     font-family: serif;
@@ -158,12 +159,16 @@ letter-spacing: 1px;
 }
 
 .log {
-    color: #FFFDFD;
-font-family: Cambria;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 20px;
-padding-top: 420px;
-padding-left: 90px;
+    color: rgb(245, 222, 179);
+    font-family: Cambria;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 420px;
+    padding-left: 90px;
+}
+
+.log2{
+    color: white;
 }
