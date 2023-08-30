@@ -243,3 +243,23 @@ body {
     bottom: 20px;
     right: 10px;
 }
+
+.logo {
+    display: flex;
+    flex-basis: 38%;
+    color: #A812C0;
+    font-family: Campton;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.logo>span{
+    color: #2C2C2C;
+    font-family: Campton;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+} 
