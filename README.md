@@ -1,59 +1,71 @@
-The project is between
+# ShopVerse "Discover, Explore, Shop - Unleash Your Retail Universe!" Details
 
-Maryam Garba,
+This is a repo for ShopVerse - an Ecommerce site [a project for ALX Month 8]
 
-Oluwaseyi Simon Omidiji, and 
+# Table of content
 
-Babatunde Saheed Olawunmi Babatunde
+- [ShopVerse Details](#ShopVerse-Details)
+- [Table of content](#table-of-content)
+    - [Project Task](#project-task)
+    - [Links](#links)
+  - [Our Process](#our-process)
+    - [Built With](#built-with)
+    - [What We Learned](#what-we-learned)
+    - [Useful Resources](#useful-resources)
+    - [Authors](#authors)
+    - [Acknowledgement](#aknowledgement)
 
-TOPIC: E-Commerce.
 
-		ShopVerse
-"Discover, Explore, Shop - Unleash Your Retail Universe!"
-21.Aug.2023
- 
-Form - Candidate Transportation Details
-This is Candidate transportation details form [one of my training project with hertecttrail web-development Starter]
+### Project Task
 
-Table of content
-Form Candidate Transportation Details
-Table of content
-Project Task
-Links
-My Process
-Built With
-What I Learned
-Useful Resources
-Author
-Aknowledgement
-Project Task
 Users should be able to:
 
-Find the form interactive
-should contain users details that they will be able to choose their choice details in the select field
-Links
-Solution URL (https://github.com/ESTHER-OLA/form-assgn)
-Live Site URL (https://64e37b225c129f269c62d9e3--merry-platypus-a42bab.netlify.app/)
-My Process
-I started this project by first writing the respective HTML codes and CSS styling.
+- be able to sign up/login
+- find fashionable items to buy
+- find inspiration on website design
+- add items to cart
 
-Built With
-HTML5 Markup
-CSS Styling
-What I Learned
-I practiced my knowledge of html and css in building an interactive form wrapped in different major parts of the form in fieldset elements giving each one it's own legend.
 
-And having both up and down arrow in select input field using css styling.
+### Links
 
-Useful Resources
-(https://www.w3.org/wiki/HTML_forms_-_the_basics?&sa=U&ei=uPgMVISQGoXJPPytgeAF&ved=0CDEQ9QEwBw&usg=AFQjCNHpg4hgsyMcM6BUeY85QIpZHIjqKQ)
+- Solution URL (https://github.com/Distinctsy/alx_project_1)
+- Live Site URL ()
 
-(https://stackoverflow.com/questions/52572821/how-to-make-both-up-down-arrow-in-select-input-field-in-css)
 
-This helped me while I was brainstorming on how to set a wrapped fieldset element and how to have up and down arrow select input field.
+## My Process
 
-Author
-Website - OLA ESTHER PELUMI
-Twitter - Ola Esther
-Aknowledgement
-I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement during the process of my training. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,coach.
+We started this project by writing the main codes in HTML and styling it in CSS. Also, we made use of CSS bootstrap in some aspects and added fontawesome CDN in the stylesheet so we can be able to use some icons. Furthermore, we added some JavaScript functionalities as part of the back-end specifically in the sign up and login forms. 
+
+### Built With 
+
+- HTML5 Markup
+- CSS Styling
+- JavaScript
+
+### What We Learned 
+
+This project taught us valuable lessons in front-end development, user experience design, JavaScript interactivity, and considerations for backend functionality and security. Through team collaboration, we learned about version control, communication, and project management. We also gained insights into testing, debugging, continuous learning, and basic eCommerce concepts, ultimately enhancing our technical skills and understanding of online business dynamics.
+
+
+### Useful Resources 
+
+(https://stackoverflow.com/questions/1283264/tips-on-building-my-first-ecommerce-site)
+
+(https://www.bigcommerce.com/blog/build-an-ecommerce-website/)
+
+These websites helped us when we were stuck on how the layout of our website should be like and also when we were contemplating on which sections to add in the categories page.
+
+
+### Authors
+- Website - [OLUWASEYI SIMON OMIDIJI](https://github.com/Distinctsy)
+
+- Website - [BABATUNDE SAHEED BABATUNDE](https://github.com/Olababs98)
+
+- Website - [MARYAM GARBA](https://github.com/masha-a-m)
+- Twitter - (https://twitter.com/bookoverboys)
+
+
+### Aknowledgement
+
+We gives all thanks to God for the successful completion of our project. 
+We would also like to thank ALX Program, the founders, and our mentors for impacting on us an enormous amount of knowledge which has helped to develop our skills and has enabled us to make whole projects that we would never had thought of even starting otherwise. Thank you so much!
