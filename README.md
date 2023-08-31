@@ -1,10 +1,12 @@
 # ShopVerse "Discover, Explore, Shop - Unleash Your Retail Universe!"
 
-This is a repo for ShopVerse - an Ecommerce site [a project for ALX Month 8]
+# ShopVerse Details
+
+This is a repo for ShopVerse - an E-commerce site [a project for ALX Month 8]
 
 # Table of content
 
-- [ShopVerse Details](#ShopVerse-Details)
+- [ShopVerse Details](#shopverse-details)
 - [Table of content](#table-of-content)
     - [Project Task](#project-task)
     - [Links](#links)
@@ -13,7 +15,7 @@ This is a repo for ShopVerse - an Ecommerce site [a project for ALX Month 8]
     - [What We Learned](#what-we-learned)
     - [Useful Resources](#useful-resources)
     - [Authors](#authors)
-    - [Acknowledgement](#aknowledgement)
+    - [Acknowledgement](#acknowledgement)
 
 
 ### Project Task
@@ -32,7 +34,7 @@ Users should be able to:
 - Live Site URL ()
 
 
-## My Process
+## Our Process
 
 We started this project by writing the main codes in HTML and styling it in CSS. Also, we made use of CSS bootstrap in some aspects and added fontawesome CDN in the stylesheet so we can be able to use some icons. Furthermore, we added some JavaScript functionalities as part of the back-end specifically in the sign up and login forms. 
 
@@ -58,14 +60,16 @@ These websites helped us when we were stuck on how the layout of our website sho
 
 ### Authors
 - Website - [OLUWASEYI SIMON OMIDIJI](https://github.com/Distinctsy)
+- Twitter - [OLUWASEYI SIMON OMIDIJI](https://twitter.com/Saheed63774779)
 
 - Website - [BABATUNDE SAHEED BABATUNDE](https://github.com/Olababs98)
+- Twitter - [BABATUNDE SAHEED BABATUNDE](https://twitter.com/)
 
 - Website - [MARYAM GARBA](https://github.com/masha-a-m)
-- Twitter - (https://twitter.com/bookoverboys)
+- Twitter - [MARYAM GARBA](https://twitter.com/bookoverboys)
 
 
-### Aknowledgement
+### Acknowledgement
 
 We gives all thanks to God for the successful completion of our project. 
 We would also like to thank ALX Program, the founders, and our mentors for impacting on us an enormous amount of knowledge which has helped to develop our skills and has enabled us to make whole projects that we would never had thought of even starting otherwise. Thank you so much!
