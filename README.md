@@ -1,4 +1,4 @@
-# ShopVerse "Discover, Explore, Shop - Unleash Your Retail Universe!" Details
+# ShopVerse "Discover, Explore, Shop - Unleash Your Retail Universe!"
 
 This is a repo for ShopVerse - an Ecommerce site [a project for ALX Month 8]
 
