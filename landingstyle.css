@@ -91,7 +91,6 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 32px;
-    
 }
 
 .logo>span{
@@ -157,6 +156,48 @@ body {
     border-bottom: 2px solid #A812C0;
 }
 
+#deployment {
+    background-color:rgb(255, 255, 255);
+    height: 50vh;
+    width: 100%;
+    background-position: top 0% right 0;
+    padding: 0 80px;
+    margin-top: 80px;
+    background-size:400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#deployment h2 {
+    justify-items: center;
+    padding-bottom: 15px;
+}
+
+#deployment p {
+    width:auto;
+    align-items:  center;
+    color: #b8a8a8;
+}
+
+#deployment button {
+    color:#422c46;
+    border: 0;
+    padding: 14px 80px 14px 65px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 15px;
+    
+}
+.aboutproject {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
 
 #productshowcase {
     background-image: url("image2/png-transparent-credit-card-discounting-shopping-shopping-bag-miscellaneous-france-fashion-model-removebg-preview.png");
@@ -192,6 +233,49 @@ body {
     font-weight: 700;
     font-size: 15px;
 }
+
+#aboutproject {
+    height: 20vh;
+    width: 100%;
+    background-position: top 50% right 0;
+    padding: 0 90px;
+    background-size:400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#aboutproject h4 {
+    padding-bottom: 5px;
+}
+
+#aboutproject p {
+    display: flex;
+    padding: 0 10px;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: justify;
+}
+
+#aboutproject h2 {
+    padding-bottom: 15px;
+    color: #A812C0;
+}
+
+.parent {
+    border: none;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+
+  .child {
+    display: inline-block;
+    border: none;
+    padding: 2rem 4rem;
+    vertical-align: middle;
+  }
 
 .secondpart{
     display: flex;
