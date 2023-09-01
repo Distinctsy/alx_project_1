@@ -62,8 +62,8 @@ These websites helped us when we were stuck on how the layout of our website sho
 - Website - [OLUWASEYI SIMON OMIDIJI](https://github.com/Distinctsy)
 - Twitter - [OLUWASEYI SIMON OMIDIJI](https://twitter.com/)
 
-- Website - [BABATUNDE SAHEED BABATUNDE](https://github.com/Olababs98)
-- Twitter - [BABATUNDE SAHEED BABATUNDE](https://twitter.com/Saheed63774779)
+- Website - [BABATUNDE SAHEED OLAWUNMI BABATUNDE](https://github.com/Olababs98)
+- Twitter - [BABATUNDE SAHEED OLAWUNMI BABATUNDE](https://twitter.com/Saheed63774779)
 
 - Website - [MARYAM GARBA](https://github.com/masha-a-m)
 - Twitter - [MARYAM GARBA](https://twitter.com/bookoverboys)

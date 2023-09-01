@@ -91,6 +91,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 32px;
+    
 }
 
 .logo>span{
@@ -101,6 +102,7 @@ body {
     font-weight: 700;
     line-height: 32px;
 } 
+
 .landcontainer{
     display: inline-flex;
     flex-direction: column;
@@ -154,6 +156,43 @@ body {
     align-self: center;
     border-bottom: 2px solid #A812C0;
 }
+
+
+#productshowcase {
+    background-image: url("image2/png-transparent-credit-card-discounting-shopping-shopping-bag-miscellaneous-france-fashion-model-removebg-preview.png");
+    background-repeat: no-repeat;
+  
+    background-color:rgb(180, 190, 201);
+    height: 50vh;
+    width: 100%;
+    background-position: top 0% right 0;
+    padding: 0 80px;
+    margin-top: 80px;
+    background-size:400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#productshowcase h4 {
+    padding-bottom: 15px;
+}
+
+#productshowcase h1 {
+    color: #A812C0;
+}
+
+#productshowcase button {
+    color:#A812C0;
+    border: 0;
+    padding: 14px 80px 14px 65px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 15px;
+}
+
 .secondpart{
     display: flex;
     align-items: center;
@@ -308,6 +347,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 32px;
+    margin-bottom: 20px;
 }
 .three-holder>.three-hd>span{
     color: var(--new-pry, #A812C0);
@@ -640,6 +680,10 @@ body {
     flex-shrink: 0;
 }
 
+.start-join {
+    margin-bottom: 80px;
+}
+
 /* .shade{
     position: absolute;
     display: inline-block;
@@ -828,6 +872,7 @@ li>a,li,.newsletter-para{
 ul{
     list-style: none;
 }
+
 
 .newsletter>input{
     display: flex;
