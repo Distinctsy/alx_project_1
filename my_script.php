@@ -1,8 +1,8 @@
 require 'vendor/autoload.php';
 <?php
-$servername = "Admin"; // Change to your database server
-$username = "admin";        // Change to your database username
-$password = "admin";            // Change to your database password
+$servername = "sqluser"; // Change to your database server
+$username = "sqluser";        // Change to your database username
+$password = "password";            // Change to your database password
 $dbname = "Ecommerce_site";    // Change to your database name
 
 // Create connection
