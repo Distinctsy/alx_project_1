@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #5e066c;;
+    background-color: #630A71;;
 }
 
 .signincontainer {
@@ -17,22 +17,25 @@ body{
     flex-basis: 50%;
 }
 
-.shop {
+#img1 {
+    flex-basis: 50%;
+}
+
+.gig {
     color: #efeaea;
-    width: 360px;
+    width: 320px;
     font-family: serif;
-    font-size: 95px;
+    font-size: 75px;
     font-style: normal;
     font-weight: 600;
     text-align: center;
-    letter-spacing: 2px;
-    line-height: 32px; 
+    letter-spacing: 2px; 
     margin-bottom: -20px;
     padding-right: 0px;
     display: flex;
-    padding-left: 190px;
+    padding-left: 155px;
     padding-bottom: 0;
-    padding-top: 80px;
+    padding-top: 0px;
     
     align-items: center;
 justify-content: center;
@@ -40,25 +43,25 @@ justify-content: center;
 
 
 span{
-    color: #d32aed;
+    color: #da08fa;
 }
 
 .wel {
     margin-top: 12px;
     display: flex;
-    width: 460px;
+    width: 320px;
     justify-content: center;
     align-items: flex-start;
     gap: 4px;
     color: #f9f0fa;
     font-family: Cambria;
-    font-size: 27px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     letter-spacing: 2px;
     padding-left: 150px;
-    padding-top: 100px;
+    padding-top: 20px;
     word-spacing: 8px;
     word-spacing: center;
     text-align: center;
@@ -68,12 +71,14 @@ span{
 .member {
     color: #f9f0fa;
     font-family: Cambria;
-    font-size: 27px;
+    font-size: 25px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     letter-spacing: 2px;
-    padding-left: 90px;
+    padding-left: 100px;
+    word-spacing: center;
+    text-align: center;
 }
 
 
@@ -110,21 +115,19 @@ text-align: center;
 .cli{
     border-radius: 10px;
     background: #FFFDFD;
-    width: 250px;
+    width: 220px;
     height: 299px;
     padding-right: 0px;
-    letter-spacing: 2px;
    
 }
 
 .free {
     border-radius: 10px;
-    background: #FFFDFD;
-    width: 250px;
+    background:  #FFFDFD;
+    width: 220px;
     height: 299px;
     padding-right: 0px;
     padding-left: 0px;
-    letter-spacing: 2px;
 
 }
 
@@ -159,16 +162,12 @@ letter-spacing: 1px;
 }
 
 .log {
-    color: rgb(245, 222, 179);
-    font-family: Cambria;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 20px;
-    padding-top: 420px;
-    padding-left: 90px;
-}
-
-.log2{
-    color: white;
+    color: gold;
+font-family: Cambria;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+padding-top: 420px;
+padding-left: 90px;
 }
